@@ -7,6 +7,44 @@ body {
     width: 90%;
     margin-left: 5%;
 }
+.header {
+    background-color: rgb(241, 230, 215);
+    height: 200px;
+    padding: 30px;
+    text-align: center;
+}
 
+.header h2 {
+    margin-bottom: 20px;
+}
+.header p {
+    width: 70%;
+    margin-left: 15%;
+}
 
+.first {
+    background-color: rgba(48, 157, 185, 0.804);
+    height: 200px;
+    padding: 30px;
+    text-align: center;
+}
 
+.first h2 {
+    margin-bottom: 15px;
+}
+.first p {
+    margin-bottom: 15px;
+    width: 70%;
+    margin-left: 15%;
+}
+
+.first h4 {
+    margin-bottom: 10px;
+    text-align: left;
+}
+
+.first audio {
+    float: left;
+    height: 30px;
+    width: 40%;
+}
