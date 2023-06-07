@@ -7,6 +7,11 @@ body {
     width: 90%;
     margin-left: 5%;
 }
+
+/* Header Start Here  */
+/* Header Start Here  */
+/* Header Start Here  */
+
 .header {
     background-color: rgb(241, 230, 215);
     height: 200px;
@@ -21,6 +26,10 @@ body {
     width: 70%;
     margin-left: 15%;
 }
+
+/* First Part Start Here  */
+/* First Part Start Here  */
+/* First Part Start Here  */
 
 .first {
     background-color: rgba(48, 157, 185, 0.804);
@@ -47,4 +56,29 @@ body {
     float: left;
     height: 30px;
     width: 40%;
+}
+
+/* First - Sub Part Start here  */
+/* First - Sub Part Start here  */
+/* First - Sub Part Start here  */
+
+
+.first-sub {
+    background-color: rgb(153, 232, 183);
+    padding: 30px;
+    text-align: center;
+}
+
+.first-sub h2 {
+    margin-bottom: 15px;
+}
+.first-sub p {
+    margin-bottom: 15px;
+    width: 70%;
+    margin-left: 15%;
+}
+
+.first-sub h4 {
+    margin-bottom: 10px;
+    text-align: left;
 }
