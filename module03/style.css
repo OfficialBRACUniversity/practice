@@ -14,7 +14,7 @@ body {
 
 .header {
     background-color: rgb(241, 230, 215);
-    height: 200px;
+    height: 150px;
     padding: 30px;
     text-align: center;
 }
@@ -83,3 +83,18 @@ body {
     text-align: left;
 }
 
+
+/* second section start here  */
+/* second section start here  */
+/* second section start here  */
+
+
+.second table {
+    padding: 10px;
+    border-collapse: collapse;
+}
+
+.second tr td {
+    padding: 10px;
+    border: 1px solid black;
+}
