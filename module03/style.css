@@ -87,14 +87,33 @@ body {
 /* second section start here  */
 /* second section start here  */
 /* second section start here  */
+.second {
+    background-color: rgb(104, 250, 255);
+    padding: 30px;
+    text-align: center;
 
+}
+.second h2 {
+    margin-bottom: 15px;
+}
 
 .second table {
     padding: 10px;
     border-collapse: collapse;
+    margin-bottom: 15px;
 }
 
 .second tr td {
     padding: 10px;
     border: 1px solid black;
+}
+
+.second tr td:hover {
+    background-color: rgb(1, 15, 17);
+    color: rgb(255, 255, 255);
+
+}
+.second th {
+    border: 2px solid black;
+    padding: 10px;
 }
