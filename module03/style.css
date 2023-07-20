@@ -30,5 +30,29 @@
 
 .food h2 {
     margin-bottom: 15px;
-    color: blue;
+    color: rgb(74, 74, 196);
+}
+
+.food h4 {
+    margin-bottom: 10px;
+    color: brown;
+}
+
+.food p {
+    margin-bottom: 10px;
+
+}
+
+.food button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: cornflowerblue;
+
+}
+
+.food button:hover {
+    background-color: blue;
+    color: aliceblue;
+    cursor: pointer;
 }
